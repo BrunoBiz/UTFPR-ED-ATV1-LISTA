@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1634602095 source:c:\users\usuario\desktop\utf\ed\teste\atividade1\listacontatos.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634511688 c:\users\usuario\desktop\utf\ed\teste\atividade1\listacontatos.h
+
+1634602244 source:c:\users\usuario\desktop\utf\ed\teste\atividade1\main.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634602718 source:c:\users\usuario\desktop\atividade1\main.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634511688 c:\users\usuario\desktop\atividade1\listacontatos.h
+
+1634602853 source:c:\users\usuario\desktop\utf\ed\trabalho1 - projeto e pdf\atividade1\listacontatos.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1634511688 c:\users\usuario\desktop\utf\ed\trabalho1 - projeto e pdf\atividade1\listacontatos.h
+
+1634602718 source:c:\users\usuario\desktop\utf\ed\trabalho1 - projeto e pdf\atividade1\main.c
+	"ListaContatos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
